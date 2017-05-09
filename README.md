@@ -11,11 +11,11 @@ const zip = zipParser.init({
     path: {
         html: {
           relative: '/assets/html',
-          absolute: '/home/user/projects/zip-parser/assets/html,
+          absolute: '/home/user/projects/zip-parser/assets/html'
         },
         img: {
           relative: '/assets/img',
-          absolute: '/home/user/projects/zip-parser/assets/img',
+          absolute: '/home/user/projects/zip-parser/assets/img'
         }
       }
 });
