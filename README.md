@@ -53,4 +53,7 @@ If you used Formidable then you have to pass it on to **parse** function:
 ```javascript
 zip.parse(file);
 ```
-
+In response you receive data like:
+- html file
+- Thumbnail files
+- Images used in html template
